@@ -1,0 +1,1 @@
+My Linux Journey begins today on Jun 27 2026
