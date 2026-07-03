@@ -11,7 +11,7 @@ Today I learned about:
 - Git basics
 
 
-## Day 3
+## Day 2
 
 
 Today I learned about:
