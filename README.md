@@ -11,7 +11,7 @@ Today I learned about:
 - Git basics
 
 
-## Day 3
+## Day 2
 
 
 Today I learned about:
@@ -21,5 +21,14 @@ Today I learned about:
 - SSH authentication
 - Pushing a local repository to GitHub
 
-This line was added from the Github website itself.
-This change exists on the experiment branch.
+## Day 3
+
+Today I learned about:
+
+- Discarding unstaged changes with git restore
+- Unstaging changes without deleting them
+- Reverting a committed mistake while preserving history
+- The difference between fetch and pull
+- Resolving my first merge conflict
+- Creating, switching, merging, and deleting branches
+- Fast-forward merges versus true merges
