@@ -10,7 +10,7 @@ Today I learned about:
 - tree and man
 - Git basics
 
-## Day 2
+## Day 4
 
 Today I learned about:
 
