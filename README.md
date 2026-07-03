@@ -18,5 +18,3 @@ Today I learned about:
 - SSH public and private keys
 - SSH authentication
 - Pushing a local repository to GitHub
-
-From now on, I give fake confessions, not real. which means the prev ones were riyal.
